@@ -1,0 +1,89 @@
+
+.nav-item
+{
+	padding: 15px 50px
+
+}
+.navbar-brand img
+{
+	width: 60px
+}
+.carousel-inner img
+{
+	height: 80vh
+	width: 90vh
+}
+.carousel-inner h1
+{
+	position: absolute;
+	top: 1%;
+	color: #fff;
+	left: 50%;
+    transform: translateX(-50%);
+    font-size: 50px;
+    background: linear-gradient(172deg, gray, transparent);
+    padding: 30px 50px;
+}
+
+/*About Us*/
+#aboutus h2
+{
+	margin-top: 30px
+}
+#aboutus p
+{
+	color: #5d5d5d;
+	font-size: 17px;
+	line-height: 38px;
+	overflow: hidden;
+}
+.btn-primary
+{
+	position: relative;
+	left: 50%;
+	transform: translate(-50%);
+	padding: 6px 30px
+}
+/*About Us*/
+
+/*Explore Nepal*/
+.card img
+{	
+	padding: 5px
+}
+.btn-warning 
+{
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.card-title
+{
+	text-align: center;
+}
+/*Explore Nepal*/
+
+#contact 
+{
+	background: url(../images/pic04.jpg) no-repeat center fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+#contact h2
+{
+	color: #fff;
+	font-size: 70px;
+	text-align: center;
+
+}
+
+html, body {
+    font-family: 'Solway', serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
