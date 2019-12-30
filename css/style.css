@@ -16,12 +16,12 @@
 .carousel-inner h1
 {
 	position: absolute;
-	top: 1%;
+	top: 0%;
 	color: #fff;
 	left: 50%;
     transform: translateX(-50%);
-    font-size: 50px;
-    background: linear-gradient(172deg, gray, transparent);
+    font-size: 88px;
+   
     padding: 30px 50px;
 }
 
